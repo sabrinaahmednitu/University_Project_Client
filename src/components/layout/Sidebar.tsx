@@ -16,7 +16,7 @@ const { Sider } = Layout;
 
 const Sidebar = () => {
  
-    const role = 'faculty';
+    const role = 'student';
     let sidebarItems;
 
     switch (role) {
